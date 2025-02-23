@@ -35,9 +35,36 @@ npm install
 
 ### Set Up Environment Variables
 
+Replace the placeholder values with your actual EmailJS credentials. You can obtain these credentials by signing up on the EmailJS website.
+
 .env.local
 ```
 VITE_APP_EMAILJS_SERVICE_ID=
 VITE_APP_EMAILJS_TEMPLATE_ID=
 VITE_APP_EMAILJS_PUBLIC_KEY=
 ```
+
+### Running the Code
+
+```
+npm run dev
+```
+Open http://localhost:5173 in your browser to view the project.
+
+## Tech Stack 
+
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Email JS
+- Vite
+- Tailwind CSS
+
+## Contact Me
+
+You can contact me in the following ways:
+你可以透過以下方式與我聯絡:
+
+- [Blog](https://colinchiu87.github.io/)
+- [Linkedin](https://www.linkedin.com/in/colin19981225/)
